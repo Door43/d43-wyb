@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wyb:home|Door43 (wyb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wyb|d43-wyb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wyb/archive/master.zip|d43-wyb.zip]]
+
+**Recent Changes**
+{{changes>ns = wyb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wyb|Ethnologue data]]
+
